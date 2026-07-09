@@ -2,7 +2,7 @@
 
 A custom Minecraft PvP client optimized for SMP videos with maximum performance enhancements.
 
-**Version:** 1.21.X  
+**Version:** 1.21.x  
 **Loader:** Fabric  
 **Status:** In Development
 
