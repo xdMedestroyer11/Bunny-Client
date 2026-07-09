@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "bunnyclient",
+  "version": "${version}",
+  "name": "Bunny Client",
+  "description": "Custom Minecraft PvP Client optimized for SMP videos with performance enhancements",
+  "authors": [
+    "xdMedestroyer11"
+  ],
+  "contact": {
+    "homepage": "https://github.com/xdMedestroyer11/Bunny-Client",
+    "sources": "https://github.com/xdMedestroyer11/Bunny-Client"
+  },
+  "license": "MIT",
+  "icon": "assets/bunnyclient/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.bunnyclient.BunnyClient"
+    ],
+    "client": [
+      "com.bunnyclient.client.BunnyClientClient"
+    ]
+  },
+  "mixins": [
+    "bunnyclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1"
+  }
+}
