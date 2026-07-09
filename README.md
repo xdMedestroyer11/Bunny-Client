@@ -22,7 +22,7 @@ A custom Minecraft PvP client optimized for SMP videos with maximum performance 
 ### Planned Features:
 - ✨ Custom PvP HUD
 - 🎯 Combat utilities
-- 🏷️ Name tags and player tracking
+- 🏷️ Name tags
 - ⚡ Performance monitoring
 - 🎨 Customizable GUI themes
 - 🎥 Content creator tools for video recording
