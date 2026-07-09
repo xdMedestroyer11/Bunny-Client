@@ -51,6 +51,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.2.3+mc1.21.1")
             modImplementation("maven.modrinth:starlight:1.1.2+mc1.21.1")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.2.0+1.21.1")
         }
         "1.21.5" -> {
             modImplementation("maven.modrinth:sodium:0.6.1+mc1.21.5")
@@ -60,6 +62,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.2.4+mc1.21.5")
             modImplementation("maven.modrinth:starlight:1.1.3+mc1.21.5")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.2.1+1.21.5")
         }
         "1.21.8" -> {
             modImplementation("maven.modrinth:sodium:0.6.2+mc1.21.8")
@@ -69,6 +73,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.2.5+mc1.21.8")
             modImplementation("maven.modrinth:starlight:1.1.4+mc1.21.8")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.2.2+1.21.8")
         }
         "1.21.9" -> {
             modImplementation("maven.modrinth:sodium:0.6.3+mc1.21.9")
@@ -78,6 +84,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.2.6+mc1.21.9")
             modImplementation("maven.modrinth:starlight:1.1.5+mc1.21.9")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.2.3+1.21.9")
         }
         "1.21.11" -> {
             modImplementation("maven.modrinth:sodium:0.6.4+mc1.21.11")
@@ -87,6 +95,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.2.7+mc1.21.11")
             modImplementation("maven.modrinth:starlight:1.1.6+mc1.21.11")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.2.4+1.21.11")
         }
         "26.1" -> {
             modImplementation("maven.modrinth:sodium:0.7.0+mc26.1")
@@ -96,6 +106,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.3.0+mc26.1")
             modImplementation("maven.modrinth:starlight:1.2.0+mc26.1")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.3.0+26.1")
         }
         "26.2" -> {
             modImplementation("maven.modrinth:sodium:0.7.1+mc26.2")
@@ -105,6 +117,8 @@ dependencies {
             modImplementation("maven.modrinth:lazy-dfu:0.1.3")
             modImplementation("maven.modrinth:krypton:0.3.1+mc26.2")
             modImplementation("maven.modrinth:starlight:1.2.1+mc26.2")
+            // FlashBack for cinematics
+            modImplementation("maven.modrinth:flashback:1.3.1+26.2")
         }
     }
 }
